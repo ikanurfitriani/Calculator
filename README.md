@@ -4,7 +4,7 @@ Hi, let me introduce myself, Ika Nurfitriani! This repository contains source co
 # Application Screenshots
 The following is a screenshot of the Calculator:
 
-<img src="SS/Screenshot_Calculator.png" alt="SS1" width="900">
+<img src="SS/Screenshot_Calculator.png" alt="SS1" width="500">
 
 ## Author
 [@Ika Nurfitriani](https://github.com/ikanurfitriani)
